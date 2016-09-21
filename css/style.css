@@ -1,0 +1,237 @@
+@import url(https://fonts.googleapis.com/css?family=Jura&subset=latin,cyrillic);
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+/*p, h1, h2, h3, h4 ,h5, ul, li, a {text-shadow: 0px 0px 150px #000000;}*/
+
+/* main */
+body{
+	background-color: #070707;
+	background: url('bg.jpg') no-repeat center center fixed;
+       -webkit-background-size: cover;
+       -moz-background-size: cover;
+       -o-background-size: cover;
+       background-size: cover;
+	font-family: 'Jura', sans-serif;
+	font-size: 14px;
+	color: gray;
+	text-align: left;
+}
+
+#wrapper {
+	margin: 0 auto;
+	width: 100%;
+	max-width: 768px; /* 540 */
+}
+
+#header {
+
+}
+
+#content {
+	margin: 40px 0;
+}
+
+#footer {
+	margin-bottom: 40px;
+	color: gray;
+}
+
+.title {
+	margin-top:60px;
+	padding: 0 10px;
+	font-size: 30px; /* 24 */
+	font-weight: bold;
+	color: #FFFFFF;	
+}
+
+.title a {
+	text-decoration: none !important;
+	color: #997B4C !important;
+}
+
+.title a:hover {
+	text-decoration: none !important;
+	color: #FFFFFF !important;
+}
+
+p {
+	font-size: 18px; /* 14 */
+	padding-top: 18px; /* 10 */
+	padding-left: 10px; /* 15 */
+	padding-right: 10px; /* 15 */
+	color: silver;
+}
+
+h1 {
+	padding-top: 18px; /* 10 */
+	padding-left: 10px; /* 15 */
+	padding-right: 10px; /* 15 */
+	color: white;
+}
+
+h1, h2 {
+	font-weight: normal;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	padding-top: 18px; /* 10 */
+	padding-left: 10px; /* 15 */
+	padding-right: 10px; /* 15 */
+}
+
+ol {
+
+	list-style-type: none;
+}
+
+a:link, a:visited {
+	text-decoration: underline;
+	color: white;
+}
+
+a:hover, a:active {
+	text-decoration: underline;
+	color: #997B4C;
+}
+
+.post-date {
+	margin-top: 5px;
+}
+
+.post-link{
+	text-decoration: none !important;
+
+}
+
+.post-link:hover{
+	text-decoration: none;
+}
+
+#logo {margin-top: 30px; margin-bottom:10px; font-size: 74px; color: white;}
+
+.rss-subscribe img {vertical-align:middle;}
+
+#post-content img:hover {
+  -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+  filter: grayscale(100%);
+  filter: gray; /* IE 6-9 */
+}
+
+#post-content img {
+  -webkit-filter: none;
+  -moz-filter: none;
+  -ms-filter: none;
+  -o-filter: none;
+  filter: none;
+  filter: none; /* IE 6-9 */
+}
+
+#social-button {
+  margin-top: 45px; 
+  padding:0 10px;
+  -webkit-filter: grayscale(20%);
+  -moz-filter: grayscale(20%);
+  -ms-filter: grayscale(20%);
+  -o-filter: grayscale(20%);
+  filter: grayscale(20%);
+}
+
+#comments {
+	 margin-top:45px;
+	 padding: 0 10px;
+	 max-width:600px;
+}
+
+#comments a {
+	color: #997B4C;
+}
+
+#post-content a {
+	color: #997B4C;
+}
+
+#post-content a:hover {
+	color: #FFFFFF;
+}
+
+/* animation */
+#ava img{
+	animation-name: tossing;
+	-webkit-animation-name: tossing;	
+
+	animation-duration: 25s;	
+	-webkit-animation-duration: 25s;
+
+	animation-iteration-count: infinite;
+	-webkit-animation-iteration-count: infinite;
+}
+
+@keyframes tossing {
+	0% {
+		transform: rotate(-360deg);	
+	}
+	50% {
+		transform: rotate(360deg);
+	}
+	100% {
+		transform: rotate(-360deg);	
+	}						
+}
+
+@-webkit-keyframes tossing {
+	0% {
+		-webkit-transform: rotate(-360deg);	
+	}
+	50% {
+		-webkit-transform: rotate(360deg);
+	}
+	100% {
+		-webkit-transform: rotate(-360deg);	
+	}				
+}
+
+#content {
+	animation-name: fadeIn;
+	-webkit-animation-name: fadeIn;	
+
+	animation-duration: 1.5s;	
+	-webkit-animation-duration: 1.5s;
+
+	animation-timing-function: ease-in-out;	
+	-webkit-animation-timing-function: ease-in-out;		
+
+	visibility: visible !important;	
+}
+
+@keyframes fadeIn {
+	0% {
+		transform: scale(1);
+		opacity: 0.0;		
+	}	
+	100% {
+		transform: scale(1);
+		opacity: 1;	
+	}		
+}
+
+@-webkit-keyframes fadeIn {
+	0% {
+		-webkit-transform: scale(1);
+		opacity: 0.0;		
+	}	
+	100% {
+		-webkit-transform: scale(1);
+		opacity: 1;	
+	}		
+}

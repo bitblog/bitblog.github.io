@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+<!--<div class="post-date"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%d.%m.%Y" }}</time></div>-->
+<div id="post-content">
+{{ content }}
+</div>
+
+<div id="social-button">
+{% include social-button.html %}
+</div>
+
+<div id="comments">	
+{% include comments.html %}
+</div>

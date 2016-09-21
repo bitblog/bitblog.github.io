@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
+        </h2>
+	Опубликовано <span class="post-meta">{{ post.date | date: "%d.%m.%Y" }}</span>
+      </li>
+    {% endfor %}
+ </ul>
+
+<p class="rss-subscribe"><img src="https://upload.wikimedia.org/wikipedia/en/4/43/Feed-icon.svg" width="16px;">&nbsp;<a href="{{ "/feed.xml" | prepend: site.baseurl }}" title="Подписаться на RSS">RSS</a></p>
