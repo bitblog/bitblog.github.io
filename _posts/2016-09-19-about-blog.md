@@ -27,5 +27,5 @@ description: Информация о bitblog.github.io. Что такое BitBlo
 либо пишите мне в джаббер [bitblogproject@swissjabber.ch](xmpp:bitblogproject@swissjabber.ch). 
 Спасибо за Ваше внимание, всем удачи!
 
-PS: Ну а [первым шагом](/post-No1/) в моих начинаниях будет создание кошелька и регистрация 
+PS: Ну а [первым шагом](/post-No1-bitcoin-ptc/) в моих начинаниях будет создание кошелька и регистрация 
 в Bitcoin-PTC системах.
