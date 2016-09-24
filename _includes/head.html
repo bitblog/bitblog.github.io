@@ -5,7 +5,8 @@
 
 <meta name="keywords" content="{% if page.keywords %}{{ page.keywords | escape }}{% else %}{{ site.keywords | escape }}{% endif %}">
 <title>{% if page.title %}{{ page.title | escape }} - {{ site.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}{% endif %}">		
+<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}{% endif %}">
+<meta name="yandex-verification" content="0960d46dd5317cf9">
 
 <!--<link rel="icon" type="image/png" href="{{ full_base_url }}/favicon.png">-->
 <link rel="stylesheet" href="{{ "/css/style.css" | prepend: full_base_url }}">
