@@ -9,3 +9,6 @@ url: "https://bitblog.github.io/"
 permalink: /:categories/:title/
 
 timezone: Europe/Moscow
+
+gems:
+  - jekyll-sitemap
