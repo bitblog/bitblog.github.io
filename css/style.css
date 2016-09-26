@@ -166,7 +166,7 @@ a:hover, a:active {
 }
 
 table {
-	margin: 45px 10px;
+	margin: 0px 10px 30px 10px;
 	color: silver;
 
 }
@@ -187,6 +187,13 @@ td {
 
 tr:hover {
 	background:rgba(80, 80, 80, 0.5);
+}
+
+.date-update {
+	margin-top:30px;
+	color: gray;
+	font-style:italic;
+	font-size:small;
 }
 
 /* animation */

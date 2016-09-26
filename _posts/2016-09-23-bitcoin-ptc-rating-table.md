@@ -6,14 +6,16 @@ keywords: Рейтинг bitcoin ptc, рейтинг биткойн птц, лу
 description: Рейтинг Bitcoin-PTC и Таблица статистики выплат, основанная на личном опыте и подсчёте полученных/собранных данных/показателей.
 ---
 
-Таблица наполняется данными, получаемыми исключительно в ходе [эксперимента](/about/).  
-Возможно добавление новых Bitcoin-PTC и столбцов с дополнительными показателями.
+Таблица состалена на основе данных, полученных(получаемых) мной в ходе моего [эксперимента](/about/), 
+в процессе возможно добавление новых Bitcoin-PTC систем и столбцов с дополнительными показателями.
+
+<p class="date-update">Обновлено 26.09.2016</p>
 
 №|Bitcoin-PTC|Дней в тесте|Ср. кол. реклам. в день|Ср. цена клика|Ср. заработок в день|
 :-:|:-:|:-:|:-:|:-:|:-:
-1|<a rel="nofollow" target="_blank" href="https://bitsforclicks.com/?r=X0B9XBAZYKGNVAJ">BitsForClicks</a>|4|22|~129,16 сат.|**~2873,75 сат.**|
-2|<a rel="nofollow" target="_blank" href="http://refbit.net/?ui=35233">RefBit</a>|4|14|~88,76 сат.|~1287 сат.|
-3|<a rel="nofollow" target="_blank" href="http://ads4btc.com/?r=bitblog">Ads4BTC</a>|3|8|~117 сат.|~936 сат.|
+1|<a rel="nofollow" target="_blank" href="https://bitsforclicks.com/?r=X0B9XBAZYKGNVAJ">BitsForClicks</a>|5|22,20|126,11 сат.|**2799,60 сат.**|
+2|<a rel="nofollow" target="_blank" href="http://refbit.net/?ui=35233">RefBit</a>|5|16,4|89,23 сат.|1463,40 сат.|
+3|<a rel="nofollow" target="_blank" href="http://ads4btc.com/?r=bitblog">Ads4BTC</a>|4|7,5|114,67 сат.|860 сат.|
 
 * **№** - *Позиция PTC системы в рейтинге, по показателю среднего заработка в день*  
 * **Bitcoin-PTC** - *Название PTC и ссылка на страницу системы. Открывается в новом окне/вкладке*  

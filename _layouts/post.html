@@ -1,9 +1,10 @@
 ---
 layout: default
 ---
+<!--<article class="post" itemscope itemtype="http://schema.org/BlogPosting">-->
 <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
 <!--<div class="post-date"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%d.%m.%Y" }}</time></div>-->
-<div id="post-content">
+<div id="post-content" itemprop="articleBody">
 {{ content }}
 </div>
 
@@ -14,3 +15,4 @@ layout: default
 <div id="comments">	
 {% include comments.html %}
 </div>
+<!--</article>-->
