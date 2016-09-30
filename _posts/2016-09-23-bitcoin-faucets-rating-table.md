@@ -9,16 +9,16 @@ description: Рейтинг Bitcoin-кранов и Таблица статис�
 Таблица состалена на основе данных, полученных(получаемых) мной в ходе моего [эксперимента](/about/), 
 в процессе возможно добавление новых Bitcoin-кранов и столбцов с дополнительными показателями.
 
-<p class="date-update">Обновлено 26.09.2016</p>
+<p class="date-update">Обновлено 30.09.2016</p>
 
 №|Название крана|Таймер|Получено наград|Средняя награда|Сат./мин.|Сат./24ч.|
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
-1|<a rel="nofollow" target="_blank" href="http://www.fautsy.com/?r=37G5khNvNK6WCDjW6TPK98opJBXaBfAcaU">Fautsy</a>|5 минут|53|116,28 сат.|**23,26**|**33489,51**|
-3|<a rel="nofollow" target="_blank" href="http://solebtc.com/register?referer_id=110344">SoleBTC</a>|15 минут|40|179,55 сат.|11,97|17236,80|
-4|<a rel="nofollow" target="_blank" href="http://takefreebitcoin.com/?r=c979354f58">Take Free Bitcoin</a>|5 минут|65|46,91 сат.|9,38|13509,42|
-2|<a rel="nofollow" target="_blank" href="http://freebitco.in/?r=3100894">FreeBitco.in</a>|60 минут|36|418,42 сат.|6,97|10042,00|
-5|<a rel="nofollow" target="_blank" href="http://easybitcoinfaucet.com/?r=ca64ec19ce">Easy Bitcoin Faucet</a>|10 минут|47|68,66 сат.|6,87|9886,98|
-6|<a rel="nofollow" target="_blank" href="http://claimbtc.com/?r=32ac1830f9">Claim BTC</a>|20 минут|38|123,32|6,17|8878,74|
+1|<a rel="nofollow" target="_blank" href="http://www.fautsy.com/?r=37G5khNvNK6WCDjW6TPK98opJBXaBfAcaU">Fautsy</a>|5 минут|105|115,34 сат.|**23,07**|**33218,74**|
+2|<a rel="nofollow" target="_blank" href="http://solebtc.com/register?referer_id=110344">SoleBTC</a>|15 минут|76|163,26 сат.|10,88|15673,26|
+3|<a rel="nofollow" target="_blank" href="http://takefreebitcoin.com/?r=c979354f58">Take Free Bitcoin</a>|5 минут|80|42,74 сат.|8,55|12308,40|
+4|<a rel="nofollow" target="_blank" href="http://easybitcoinfaucet.com/?r=ca64ec19ce">Easy Bitcoin Faucet</a>|10 минут|60|63,98 сат.|6,40|9213,60|
+5|<a rel="nofollow" target="_blank" href="http://freebitco.in/?r=3100894">FreeBitco.in</a>|60 минут|76|372,46 сат.|6,21|8939,05|
+6|<a rel="nofollow" target="_blank" href="http://claimbtc.com/?r=32ac1830f9">Claim BTC</a>|20 минут|59|108,25|5.41|7794,31|
 
 * **№** - *Позиция крана в рейтинге, по среднему показателю получаемых сат. в минуту*  
 * **Название крана** - *Название крана и ссылка на его страницу. Открывается в новом окне/вкладке*  
