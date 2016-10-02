@@ -5,7 +5,7 @@ keywords: 'битблог, bitblog, биткойн блог, bitcoin блог, �
 description: 'Блог биткойн энтузиаста'
 
 baseurl: ""
-url: "https://bitblog.github.io/"
+url: "https://bitblog.github.io"
 permalink: /:categories/:title/
 
 timezone: Europe/Moscow
