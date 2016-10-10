@@ -24,7 +24,7 @@ body{
 #wrapper {
 	margin: 0 auto;
 	width: 100%;
-	max-width: 768px; /* 540 */
+	max-width: 960px;/* 768px;  540 */;
 }
 
 #header {
@@ -32,7 +32,7 @@ body{
 }
 
 #content {
-	margin: 40px 0;
+	margin: 70px 0; margin-bottom:40px;clear:both;
 }
 
 #footer {
@@ -45,7 +45,7 @@ body{
 	padding: 0 10px;
 	font-size: 30px; /* 24 */
 	font-weight: bold;
-	color: #FFFFFF;	
+	color: #FFFFFF;
 }
 
 .title a {
@@ -117,8 +117,6 @@ a:hover, a:active {
 
 #logo {margin-top: 30px; margin-bottom:10px; font-size: 74px; color: white;}
 
-.rss-subscribe img {vertical-align:middle;}
-
 #post-content img:hover {
   -webkit-filter: grayscale(100%);
   -moz-filter: grayscale(100%);
@@ -138,6 +136,7 @@ a:hover, a:active {
 }
 
 #social-button {
+  clear:both;
   margin-top: 45px; 
   padding:0 10px;
   -webkit-filter: grayscale(20%);
@@ -195,6 +194,26 @@ tr:hover {
 	font-style:italic;
 	font-size:small;
 }
+
+#charts-wrapper {margin-top:30px;}
+
+.price {width:180px;height:30px;margin:6px;margin-bottom:20px;background:rgba(7, 7, 7, 0.5);background-image:url('https://dc-charts.com/fw/exchange_rate_bitstamp_btc_usd_2.png');}
+.price:hover {background:rgba(80, 80, 80, 0.3);background-image:url('https://dc-charts.com/fw/exchange_rate_bitstamp_btc_usd_2.png');}
+
+.charts {width:400px;height:207px;background:rgba(7, 7, 7, 0.5);margin:6px;float:left;}
+.charts:hover {background:rgba(80, 80, 80, 0.3);}
+
+.day, .day:hover {background-image:url('https://dc-charts.com/fw/bitstamp_btc_usd_24hours_3.png');}
+.week, .week:hover {background-image:url('https://dc-charts.com/fw/bitstamp_btc_usd_7days_3.png');}
+.month, .month:hover {background-image:url('https://dc-charts.com/fw/bitstamp_btc_usd_31days_3.png');}
+.half-year, .half-year:hover {background-image:url('https://dc-charts.com/fw/bitstamp_btc_usd_6months_3.png');}
+
+.trigger {margin-top:22px;margin-left:10px; float:right;}
+.trigger a {padding-right:10px;margin:0; text-decoration:none; color:white;}
+.trigger a:hover {padding-right:10px;margin:0; text-decoration:none; color:#997B4C;}
+
+.rss-subscribe {margin-left:20px;margin-top:45px;}
+.rss-subscribe img {vertical-align:middle;}
 
 /* animation */
 #ava img{

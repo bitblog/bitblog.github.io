@@ -1,4 +1,15 @@
 <div id="header">
 <div class="title"><a href="/">{{ site.author }}</a></div>
-<p style="color:#F0F0F0;">Блог биткойн энтузиаста</p>
+
+<p style="color:silver; float:left;">Блог биткойн энтузиаста</p>
+
+<div class="trigger">
+{% for my_page in site.pages %}
+{% if my_page.title %}
+<span style="color:#997B4C;">&#8226;</span>&nbsp;<a class="page-link" href="{{ my_page.url | prepend: full_base_url }}">{{ my_page.title | escape }}</a>
+{% endif %}
+{% endfor %}
 </div>
+
+</div>
+
