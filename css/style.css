@@ -32,7 +32,7 @@ body{
 }
 
 #content {
-	margin: 70px 0; margin-bottom:40px;clear:both;
+	margin: 40px 0; margin-bottom:40px;clear:both;
 }
 
 #footer {
@@ -208,7 +208,7 @@ tr:hover {
 .month, .month:hover {background-image:url('https://dc-charts.com/fw/bitstamp_btc_usd_31days_3.png');}
 .half-year, .half-year:hover {background-image:url('https://dc-charts.com/fw/bitstamp_btc_usd_6months_3.png');}
 
-.trigger {margin-top:22px;margin-left:10px; float:right;}
+.trigger {padding-top:73px; /* margin-left:10px; */ /*float:right; */}
 .trigger a {padding-right:10px;margin:0; text-decoration:none; color:white;}
 .trigger a:hover {padding-right:10px;margin:0; text-decoration:none; color:#997B4C;}
 
