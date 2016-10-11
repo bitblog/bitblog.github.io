@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Host: http://bitblog.github.io
-Sitemap: http://bitblog.github.io/sitemap.xml
+Host: https://bitblog.github.io
+Sitemap: https://bitblog.github.io/sitemap.xml
