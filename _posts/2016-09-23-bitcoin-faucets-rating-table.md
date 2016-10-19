@@ -14,12 +14,12 @@ description: Рейтинг Bitcoin-кранов и Таблица статис�
 №|Название крана|Таймер|Получено наград|Средняя награда|Сат./мин.|Сат./24ч.|
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
 1|<a rel="nofollow" target="_blank" href="https://adbit.co/?r=FOJnM9BTOK5XhquYQunxuPN4cFrNiL">AdBit</a>|60 минут|29|1474,14 сат.|**24,57**|**35379,31**|
-1|<a rel="nofollow" target="_blank" href="http://www.fautsy.com/?r=37G5khNvNK6WCDjW6TPK98opJBXaBfAcaU">Fautsy</a>|5 минут|148|115,70 сат.|23,14|33320,43|
-2|<a rel="nofollow" target="_blank" href="http://solebtc.com/register?referer_id=110344">SoleBTC</a>|15 минут|113|174,24 сат.|11,62|16726,94|
-3|<a rel="nofollow" target="_blank" href="http://takefreebitcoin.com/?r=c979354f58">Take Free Bitcoin</a>|5 минут|80|42,74 сат.|8,55|12308,40|
-4|<a rel="nofollow" target="_blank" href="http://easybitcoinfaucet.com/?r=ca64ec19ce">Easy Bitcoin Faucet</a>|10 минут|60|63,98 сат.|6,40|9213,60|
-5|<a rel="nofollow" target="_blank" href="http://freebitco.in/?r=3100894">FreeBitco.in</a>|60 минут|125|355,05 сат.|5,92|8521,15|
-6|<a rel="nofollow" target="_blank" href="http://claimbtc.com/?r=32ac1830f9">Claim BTC</a>|20 минут|92|96,14|4,81|6922,17|
+2|<a rel="nofollow" target="_blank" href="http://www.fautsy.com/?r=37G5khNvNK6WCDjW6TPK98opJBXaBfAcaU">Fautsy</a>|5 минут|148|115,70 сат.|23,14|33320,43|
+3|<a rel="nofollow" target="_blank" href="http://solebtc.com/register?referer_id=110344">SoleBTC</a>|15 минут|113|174,24 сат.|11,62|16726,94|
+4|<a rel="nofollow" target="_blank" href="http://takefreebitcoin.com/?r=c979354f58">Take Free Bitcoin</a>|5 минут|80|42,74 сат.|8,55|12308,40|
+5|<a rel="nofollow" target="_blank" href="http://easybitcoinfaucet.com/?r=ca64ec19ce">Easy Bitcoin Faucet</a>|10 минут|60|63,98 сат.|6,40|9213,60|
+6|<a rel="nofollow" target="_blank" href="http://freebitco.in/?r=3100894">FreeBitco.in</a>|60 минут|125|355,05 сат.|5,92|8521,15|
+7|<a rel="nofollow" target="_blank" href="http://claimbtc.com/?r=32ac1830f9">Claim BTC</a>|20 минут|92|96,14|4,81|6922,17|
 
 * **№** - *Позиция крана в рейтинге, по среднему показателю получаемых сат. в минуту*  
 * **Название крана** - *Название крана и ссылка на его страницу. Открывается в новом окне/вкладке*  
