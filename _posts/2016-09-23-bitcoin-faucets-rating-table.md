@@ -9,11 +9,12 @@ description: Рейтинг Bitcoin-кранов и Таблица статис�
 Таблица состалена на основе данных, полученных(получаемых) мной в ходе моего [эксперимента](/about/), 
 в процессе возможно добавление новых Bitcoin-кранов и столбцов с дополнительными показателями.
 
-<p class="date-update">Обновлено 12.10.2016</p>
+<p class="date-update">Обновлено 19.10.2016</p>
 
 №|Название крана|Таймер|Получено наград|Средняя награда|Сат./мин.|Сат./24ч.|
 :-:|:-:|:-:|:-:|:-:|:-:|:-:
-1|<a rel="nofollow" target="_blank" href="http://www.fautsy.com/?r=37G5khNvNK6WCDjW6TPK98opJBXaBfAcaU">Fautsy</a>|5 минут|148|115,70 сат.|**23,14**|**33320,43**|
+1|<a rel="nofollow" target="_blank" href="https://adbit.co/?r=FOJnM9BTOK5XhquYQunxuPN4cFrNiL">AdBit</a>|60 минут|29|1474,14 сат.|**24,57**|**35379,31**|
+1|<a rel="nofollow" target="_blank" href="http://www.fautsy.com/?r=37G5khNvNK6WCDjW6TPK98opJBXaBfAcaU">Fautsy</a>|5 минут|148|115,70 сат.|23,14|33320,43|
 2|<a rel="nofollow" target="_blank" href="http://solebtc.com/register?referer_id=110344">SoleBTC</a>|15 минут|113|174,24 сат.|11,62|16726,94|
 3|<a rel="nofollow" target="_blank" href="http://takefreebitcoin.com/?r=c979354f58">Take Free Bitcoin</a>|5 минут|80|42,74 сат.|8,55|12308,40|
 4|<a rel="nofollow" target="_blank" href="http://easybitcoinfaucet.com/?r=ca64ec19ce">Easy Bitcoin Faucet</a>|10 минут|60|63,98 сат.|6,40|9213,60|
